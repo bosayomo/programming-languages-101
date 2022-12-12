@@ -7,3 +7,7 @@ function! ReturnSmallest(a, b)
 endfunction
 
 " Add your functions below this line :) ------------------------------------
+ Lecture101
+
+* its good to practice
+* class activity are very important
